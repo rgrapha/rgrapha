@@ -1,0 +1,271 @@
+/**
+ * Custom login styles.
+ */
+.login h1 a {
+	background: url('../images/rgrapha.png') center top no-repeat !important;
+	background-size: 238px 145px !important;
+	height: 145px !important;
+	width: 238px !important;
+}
+.login #login_error, .login .message, .login .success {
+    border-left: 4px solid #323E65;
+}
+.login form, #loginform {
+    border-width: 0px !important;
+    border-radius: 10px !important;
+    box-shadow: 3px 10px 26px -26px rgba(0,0,0,0.75) !important;
+}
+.wp-core-ui .button.button-primary {
+    border: 0px solid #ffffff;
+    border-radius: 7px;
+    font-weight: 500;
+    font-size: 15px;
+    color: #fff;
+    background: #555555;
+    box-shadow: 0px 8px 35px -18px #000000f2;
+    letter-spacing: 0.5px;
+    transition: all .2s;
+    height: 40px;
+}
+.wp-core-ui .button.button-primary:hover, .wp-core-ui .button.button-primary:focus {
+    background: #818181;
+    transition: all .2s;
+}
+
+/**
+ * Custom admin styles.
+ */
+#footer-upgrade {
+	visibility: hidden !important;
+}
+
+#footer-left {
+	float: right !important;
+}
+
+#contextual-help-link-wrap,
+#wp-version-message,
+#normal-sortables #dashboard_right_now .inside .versions p {
+	display: none !important;
+}
+
+.mce-window .mce-container-body.mce-abs-layout {
+	overflow: hidden !important;
+	overflow-y: auto !important;
+}
+.login {
+	background: url('../images/adm.jpg') !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+body{
+    background: #f9f9f9;
+}
+.subsubsub .all{
+	display: none;
+}
+.subsubsub .publish{
+	display: none;
+}
+
+.subsubsub .trash{
+	display: none;
+}
+
+.subsubsub .pending{
+	display: none;
+}
+
+.subsubsub .draft{
+	display: none;
+}
+
+#menu-users{
+	display: none;
+}
+
+#adminmenu, #adminmenu .wp-submenu, #adminmenuback, #adminmenuwrap {
+    background-color: #555555;
+}
+
+element.style {
+}
+#collapse-button .collapse-button-icon:after, #collapse-button .collapse-button-label {
+    transition: all .1s ease-in-out;
+}
+#collapse-button .collapse-button-label {
+    padding: 0 0 0 36px;
+}
+#collapse-button .collapse-button-label {
+    top: 8px;
+}
+#collapse-button .collapse-button-icon, #collapse-button .collapse-button-label {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+#adminmenu * {
+    -webkit-user-select: none;
+    user-select: none;
+}
+#collapse-button {
+	color: #ffffff;
+}
+#collapse-button .collapse-button-label {
+    padding: 8px 0 0 36px;
+}
+
+#adminmenu .wp-has-current-submenu .wp-submenu .wp-submenu-head, #adminmenu .wp-menu-arrow, #adminmenu .wp-menu-arrow div, #adminmenu li.current a.menu-top, #adminmenu li.wp-has-current-submenu a.wp-has-current-submenu {
+    background: #323E65;
+}
+
+#adminmenu a {
+    color: #fff;
+}
+
+#adminmenu div.wp-menu-image:before {
+    color: #fff;
+}
+
+#adminmenu .wp-submenu a:focus, #adminmenu .wp-submenu a:hover, #adminmenu a:hover, #adminmenu li.menu-top>a:focus {
+    color: #000;
+}
+#adminmenu li.menu-top:hover, #adminmenu li.opensub>a.menu-top, #adminmenu li>a.menu-top:focus {
+    background-color: #263238;
+    color: #000;
+}
+
+#adminmenu li a:focus div.wp-menu-image:before, #adminmenu li.opensub div.wp-menu-image:before, #adminmenu li:hover div.wp-menu-image:before {
+    color: #000;
+}
+
+#adminmenu .wp-submenu a:focus, #adminmenu .wp-submenu a:hover, #adminmenu a:hover, #adminmenu li.menu-top>a:focus {
+    color: #fff;
+}
+
+#collapse-button:hover {
+    color: #263238;
+}
+#mw_adminimize_admin_bar #mw_title {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif !important;
+    font-size: 22px !important;
+    font-weight: 600;
+}
+
+
+[id*='ms-udb'] .fa, [id*='ms-udb'] .fas, [id*='ms-udb'] .fab, [id*='ms-udb'] .far, [id*='ms-udb'] .dashicons {
+    font-size: 40px;
+}
+
+.postbox {
+    border-radius: 10px;
+    box-shadow: 3px 10px 26px -26px rgba(0,0,0,0.75);
+    border: 0px;
+    margin: 10px;
+}
+
+#dashboard-widgets .meta-box-sortables {
+    display: flex;
+    margin: 0 8px 20px;
+    justify-content: flex-start;
+    align-items: center;
+    flex-flow: wrap;
+}
+
+#dashboard-widgets{
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#dashboard-widgets .postbox-container {
+     width: 100% !important;
+}
+
+#wpcontent {
+    padding-left: 0px;
+}
+.wrap {
+    padding-left: 20px;
+}
+#mw_adminimize_admin_bar {
+    background: #fff;
+    padding: 10px 20px;
+    box-shadow: 3px 10px 26px -26px rgba(0,0,0,0.75);
+    border-bottom: 0px solid #dfdfdf;
+}
+
+#titlediv #title {
+    padding: 3px 8px;
+    font-size: 25px;
+    height: 50px;
+    margin: 0 0 0px;
+    box-shadow: 0px 0px 25px -20px #000000f2;
+    border: 0;
+}
+
+#titlediv #title-prompt-text {
+    font-size: 25px;
+    padding: 0 15px;
+}
+
+#poststuff #titlewrap {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+table.fixed {
+    table-layout: fixed;
+    box-shadow: 0px 1px 44px -30px rgb(0 0 0 / 95%);
+    border-radius: 10px;
+    border: 0;
+}
+
+.wrap .add-new-h2, .wrap .add-new-h2:active, .wrap .page-title-action, .wrap .page-title-action:active {
+	margin-left: 10px !important;
+	padding: 10px 20px;
+	border: 0px solid #ffffff;
+	border-radius: 10px;
+	font-weight: 500;
+	font-size: 15px;
+	color: #fff;
+	background: #555555;
+	box-shadow: 0px 8px 35px -18px #000000f2;
+	letter-spacing: 0.5px;
+	transition: all .2s;
+}
+
+.wrap .add-new-h2:hover, .wrap .page-title-action:hover {
+    background: #fff;
+    border-color: transparent;
+    color: #000;
+    transition: all .2s;
+}
+
+#major-publishing-actions {
+    background: #fff;
+}
+
+.wrap h1.wp-heading-inline {
+    display: inline-block;
+    margin-right: 5px;
+    font-size: 18px;
+}
+
+#poststuff {
+    padding-top: 25px;
+}
+
+#column3-sortables{
+    display: none !important;
+}
+#column4-sortables{
+    display: none !important;
+}
+
