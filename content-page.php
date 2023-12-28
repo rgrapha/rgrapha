@@ -19,6 +19,6 @@
 				'link_before' => '<span>',
 				'link_after'  => '</span>',
 			) );
-		?>
+		?> 
 	</div><!-- .entry-content -->
 </article><!-- #post-## -->
