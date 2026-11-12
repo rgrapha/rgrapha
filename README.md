@@ -28,6 +28,3 @@ Há mais de 9 anos crio soluções digitais unindo Front-end, Back-end, UX/UI, W
 ![Stack](https://skillicons.dev/icons?i=html,css,sass,js,jquery,react,php,wordpress,figma,git,github,linux,cloudflare)
 
 **IA no fluxo:** ChatGPT · Claude · Codex · Adobe Firefly
-
-### 📊 Estatísticas
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=rgrapha&show_icons=true&theme=tokyonight)
