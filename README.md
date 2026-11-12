@@ -12,7 +12,7 @@ Há mais de 9 anos crio soluções digitais unindo Front-end, Back-end, UX/UI, W
 - Dados de marketing: GA4, GTM, Google Ads e Meta Ads
 
 ### 🚀 Selected work
-- **[gestao-meta](https://github.com/rgrapha/gestao-meta)** — Plataforma de gestão de tráfego para centralizar contas de clientes e analisar resultados pagos e orgânicos do Facebook e Instagram.
+- **[Centralume — Gestão Ads](https://github.com/rgrapha/gestao-meta)** — Plataforma de gestão de tráfego para centralizar contas de clientes e analisar resultados pagos e orgânicos do Facebook e Instagram.
 - **[Câmara Municipal de Extrema](https://www.camaraextrema.mg.gov.br/)** — Layout no Figma, tema WordPress próprio e plugins personalizados.
 - **[Extrema de A a Z](https://extremadeaaz.com.br/)** — Layout no Figma e tema WordPress próprio.
 - **[Idea Publicidade](https://ideapublicidade.com.br/)** — Layout, Front-end e Back-end em WordPress.
